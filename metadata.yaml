@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '38824'
     url: http://www.gutenberg.org/2009/agents/38824
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37407#William-BlakeA-Study-of-His-Life-and-Art-Work
 gutenberg_issued: '2011-09-12'
 gutenberg_type: Text
 identifiers:
